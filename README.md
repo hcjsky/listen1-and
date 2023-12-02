@@ -1,7 +1,7 @@
 # Listen1 And
 Listen1 And 是[listen1 chrome 插件](https://github.com/listen1/listen1_chrome_extension)基于chromium在安卓上的移植版。功能与插件版本完全一致，但是布局针对移动端优化。
 # 特性
-支持安卓手机与平板，平板在横屏时会布局会自动转为桌面布局（暂未实机测试）
+支持安卓手机与平板，实际测试安卓9手机正常运行。平板在横屏时会布局会自动转为桌面布局（暂未实机测试）。第一次可能不能正常启动，需要重启一次。
 # 图片
 <img src='https://github.com/hcjsky/listen1-and/blob/main/introduce%20pic/Screenshot_2023-11-27-20-15-02-266_org.chromium.chrome.jpg' width='30%'/><img src='https://github.com/hcjsky/listen1-and/blob/main/introduce%20pic/Screenshot_2023-11-27-20-15-17-059_org.chromium.chrome.jpg' width='30%'/><img src='https://github.com/hcjsky/listen1-and/blob/main/introduce%20pic/Screenshot_2023-11-27-20-15-25-029_org.chromium.chrome.jpg' width='30%'/>
 <img src='https://github.com/hcjsky/listen1-and/blob/main/introduce%20pic/Screenshot_2023-11-27-20-16-00-852_org.chromium.chrome.jpg' width='30%'/><img src='https://github.com/hcjsky/listen1-and/blob/main/introduce%20pic/Screenshot_2023-11-27-20-16-11-573_org.chromium.chrome.jpg' width='30%'/><img src='https://github.com/hcjsky/listen1-and/blob/main/introduce%20pic/Screenshot_2023-11-27-20-16-21-261_org.chromium.chrome.jpg' width='30%'/>
