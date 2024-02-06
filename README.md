@@ -12,7 +12,6 @@ Listen1 And 是[listen1 chrome 插件](https://github.com/listen1/listen1_chrome
 后续更新会在此网页发布，有问题可以在这提出，我根据实际情况修复:)
 插件版本有重大更新，此软件也会跟进。
 # 价格
-此软件并非开源(后续有可能开源）。
-可以免费使用十分钟，继续使用需要购买license：5$/年，每台机器支只能绑定一个license.
-支持支付宝(方便）、微信、银联卡、google pay支付。
+此软件并非开源(后续有可能开源）。现在改为免费使用，欢迎页面有捐赠链接，欢迎[捐赠](https://apppay.lemonsqueezy.com/checkout/buy/b2c794a5-797c-47f5-a0d8-9cb6d1928250)
+
 
